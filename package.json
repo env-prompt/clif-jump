@@ -1,5 +1,5 @@
 {
-  "name": "cli-f",
+  "name": "clif-jump",
   "version": "1.0.0",
   "description": "Dependency-free CLI functional testing library.",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/env-prompt/cli-f.git"
+    "url": "git://github.com/env-prompt/clif-jump.git"
   },
   "author": "Brian Kotos <brian.kotos@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/env-prompt/cli-f/issues"
+    "url": "https://github.com/env-prompt/clif-jump/issues"
   },
-  "homepage": "https://github.com/env-prompt/cli-f#readme"
+  "homepage": "https://github.com/env-prompt/clif-jump#readme"
 }
