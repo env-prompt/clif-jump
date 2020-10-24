@@ -1,0 +1,19 @@
+{
+  "name": "cli-f",
+  "version": "1.0.0",
+  "description": "Dependency-free CLI functional testing library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/env-prompt/cli-f.git"
+  },
+  "author": "Brian Kotos <brian.kotos@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/env-prompt/cli-f/issues"
+  },
+  "homepage": "https://github.com/env-prompt/cli-f#readme"
+}
